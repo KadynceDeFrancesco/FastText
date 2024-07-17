@@ -68,7 +68,7 @@ Class: _FastText
     
 Class: _Meter
       
-      Methods:
+  Methods:
   
     'score_vs_true(label)'
     'precision_recall_curve(label)'
