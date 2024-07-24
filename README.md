@@ -74,9 +74,4 @@ Class: _Meter
     'precision_recall_curve(label)'
     'precision_at_recall(recall, label)'
     'recall_at_precision(precision, label)'
-****
-
-**License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-****
 
